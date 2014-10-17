@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkw:home|Door43 (tkw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkw|d43-tkw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkw/archive/master.zip|d43-tkw.zip]]
+
+**Recent Changes**
+{{changes>ns = tkw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkw|Ethnologue data]]
+
